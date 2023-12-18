@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.8.3WPF", "10.8.3WPF\10.8.3WPF.csproj", "{877FB76D-E3E1-407C-848E-0169CD68E025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.8.2WPF", "10.8.2ЦWPF\10.8.2WPF.csproj", "{1F2A7ACF-4C26-4911-B6AB-915F9BA55B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.8.1WPF", "10.8.1WPF\10.8.1WPF.csproj", "{020510DB-46AD-427E-9788-50C71CC7047E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877FB76D-E3E1-407C-848E-0169CD68E025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877FB76D-E3E1-407C-848E-0169CD68E025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877FB76D-E3E1-407C-848E-0169CD68E025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877FB76D-E3E1-407C-848E-0169CD68E025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2A7ACF-4C26-4911-B6AB-915F9BA55B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2A7ACF-4C26-4911-B6AB-915F9BA55B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2A7ACF-4C26-4911-B6AB-915F9BA55B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2A7ACF-4C26-4911-B6AB-915F9BA55B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020510DB-46AD-427E-9788-50C71CC7047E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020510DB-46AD-427E-9788-50C71CC7047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020510DB-46AD-427E-9788-50C71CC7047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020510DB-46AD-427E-9788-50C71CC7047E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57CBF58E-EA16-4088-9E86-A8C2BE08730D}
+	EndGlobalSection
+EndGlobal
